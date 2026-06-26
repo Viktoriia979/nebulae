@@ -1,0 +1,96 @@
+.link-header{
+  text-align:center;
+  color:white;
+  border: solid 3px #8935DE;
+  border-radius:6px;
+  background-color: #8935DE;
+}
+
+header{
+  background-color: #0C1250;
+}
+
+header a{
+  color: white;
+  padding: 10px;
+}
+
+.SmallText{
+  color:white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.Home{
+  background-color:#8935DE;
+  border-radius: 6px;
+  border: solid 3px #8935DE;
+  text-align: center;
+}
+
+
+
+footer{
+  background-color: #0C1250;
+}
+
+footer a{
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+footer p{
+  text-align: center;
+}
+
+h1{
+  text-decoration: underline;
+}
+
+.Date {
+  text-align: right;
+}
+
+h3{
+  text-decoration: underline;
+}
+
+article{
+  border:5px double #0C1250;
+  padding: 10px;
+}
+
+.Image{
+  text-align: center;
+}
+
+main img{
+  height: 200px;
+  border: 7px groove #8935DE;
+}
+
+main p{
+  text-align: center;
+}
+
+table{
+  border:solid 6px  #0C1250;
+  text-align: center; 
+}
+
+td{
+  border:solid 6px  #0C1250;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+th{
+  background-color: #b383e3;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
